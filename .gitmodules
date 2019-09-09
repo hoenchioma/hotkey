@@ -1,3 +1,6 @@
 [submodule "hotkey-client"]
 	path = hotkey-client
 	url = https://github.com/hoenchioma/hotkey-client.git
+[submodule "hotkey-server"]
+	path = hotkey-server
+	url = https://github.com/hoenchioma/hotkey-server.git
