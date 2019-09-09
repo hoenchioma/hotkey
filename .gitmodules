@@ -1,0 +1,3 @@
+[submodule "hotkey-client"]
+	path = hotkey-client
+	url = https://github.com/hoenchioma/hotkey-client.git
