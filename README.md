@@ -40,3 +40,6 @@ During the development cycle, a variety of supporting branches are used:
 - `feature-*` — feature branches are used to develop new features for the upcoming releases. May branch off from develop and must merge into develop.
 - `hotfix-*` — hotfix branches are necessary to act immediately upon an undesired status of master. May branch off from master and must merge into master anddevelop.
 - `release-*` — release branches support preparation of a new production release. They allow many minor bug to be fixed and preparation of meta-data for a release. May branch off from develop and must merge into master and develop.
+
+## Video Demo
+Goto [here](https://youtu.be/h0pA3SHEp_4).
