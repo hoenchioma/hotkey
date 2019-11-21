@@ -2,37 +2,26 @@
 A cross platform solution for controlling your PC from a mobile device
 (This is a university project for the course CSE-2216 (Application Development Lab) at University of Dhaka.)
 
-This project was mainly intentended as solution to a wide gap in applications that facilitate communication between mobile and desktop devices. Most existing applications cater to a specific needs. Our application aims to be a more general and cross platform solution for mobile desktop interaction, communication and control. 
+This application is in essence an all in one solution to control your desktop computer from a mobile device. This app aims to be a simple, minimalistic and easy to use way to control your desktop when you are unable to physically do it yourself.
+Not only does it provide the conventional mouse and keyboard support, it also provides easy interfaces for directly controlling presentation software, pdf readers, media players and much much more.
 
-It aims to facilitate ways to control and monitor various desktop functionalities (mouse, keyboard, media controls, etc.) from the mobile device. At the same time the desktop side application will be able to monitor some key information (notification, battery, etc.) of the mobile device. (Our focus at present is mostly on the prior, although it might change in the future)
+## Features
 
-## Planned Features
-
-### Primary:
-- Basic socket connection (over LAN)
-- Mouse emulation
-- Keyboard emulation
-- Gamepad emulation
-- Multimedia controls
-- Slide presentation
-
-### Secondary:
-- Screen sharing
-- Remote file managing (FTP server)
-- Connection via PIN/QR code
-- Over internet connection (not in same LAN)
-- Terminal emulation (SSH)
-- Custom shortcuts
-- Link pushing and note saving
-- Notification pushing (Bidirectional)
-
-### Experimental:
-- Wii like controller emulation
-- Torrent pushing
-- Gesture mouse
-- Projector mode
-
-NB. This is a rough outline of the planned features. For further detail and current progress please see the GitHub issues, projects and milestones.
+An exhaustive list of all currently available features and components in our application are as follows:
+### Connection: 
+There are 2 main modes of connecting the mobile and desktop (server) applications.
+1. WiFi/LAN: If both devices are under the same Local Area Network (LAN) via WiFi or ethernet, this connection mode is available.
+1. Bluetooth: If the mobile device as well as the desktop device supports bluetooth, this connection mode is available. Both methods use QR code for doing the authentication and handshake (so that the user does not have to manually enter any address).
+### General Control:
+1. Keyboard emulation: Emulate keyboard
+2. Mouse/touchpad emulation: Emulated mouse via touchpad like interface
+3. Live screen feed: See a live feed of the desktop screen while controlling. You can also interact (move and click the cursor) while using this mode.
+### Special Control:
+1. Presentation/Powerpoint assistant: This has facilities such as enter/exit slide show, goto next/previous slide, etc. It even has the feature of using a virtual laser pointer which can be moved by the app.
+2. PDF reader: Next/previous page, fullscreen, layout fit width/height, goto page, etc.
+3. Gamepad: Has a gamepad layout like layout with configurable buttons (mappable to keyboard keys).
+4. Custom macros: One can save certain key combinations for faster use in certain situations.
+5. Media keys: contains buttons for invoking the hardware buttons for play, pause, skip next, skip previous, volume up, volume down, etc.
 
 ## Members/Collaborators:
 1. Raheeb Hassan (Roll: AE-42)
