@@ -43,3 +43,10 @@ During the development cycle, a variety of supporting branches are used:
 
 ## Video Demo
 Goto [here](https://youtu.be/h0pA3SHEp_4).
+
+## Download and Usage
+To download and install/run goto the release pages for [hotkey-client](https://github.com/hoenchioma/hotkey-client/releases) (android client) and [hotkey-server](https://github.com/hoenchioma/hotkey-server/releases) (desktop client), and download the latest release.
+
+(If you don't know how to install third party apks see [this](https://www.wikihow.tech/Install-APK-Files-on-Android))
+
+Once installed, run the desktop client and press "Start" and then "QR code" button (this will show a QR code on the screen). Then with the app press "WiFI/LAN" (or Bluetooth depending on how you wish to connect) and scan the QR code. And voila the devices are connected.
