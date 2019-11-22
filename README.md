@@ -24,9 +24,9 @@ There are 2 main modes of connecting the mobile and desktop (server) application
 5. Media keys: contains buttons for invoking the hardware buttons for play, pause, skip next, skip previous, volume up, volume down, etc.
 
 ## Members/Collaborators:
-1. Raheeb Hassan (Roll: AE-42)
-2. Farhan Kabir (Roll: AE-12)
-3. Shadman Wadith (Roll: AE-27)
+1. Raheeb Hassan (`Roll: AE-42`)&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoenchioma"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:raheeb@myself.com"><img src="http://www.clker.com/cliparts/5/S/U/Y/A/R/email-icon-th.png" alt='Email Icon clip art' width="20" height="20"/></a>
+2. Farhan Kabir (`Roll: AE-12`)&nbsp;&nbsp;&nbsp;<a href="https://github.com/farhankabir12"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20"/></a>
+3. Shadman Wadith (`Roll: AE-27`)&nbsp;&nbsp;&nbsp;<a href="https://github.com/wadith027"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wadith.24csedu.027@gmail.com"><img src="http://www.clker.com/cliparts/5/S/U/Y/A/R/email-icon-th.png" alt='Email Icon clip art' width="20" height="20"/></a>
 
 ## Repository and Workflow Description
 The repository consists of two git submodules for the client and server respectively. Each repository is a self sufficient project. The client module is an Android Studio project and the server module is a Java gradle project (IntelliJ IDEA).
@@ -50,3 +50,6 @@ To download and install/run goto the release pages for [hotkey-client](https://g
 (If you don't know how to install third party apks see [this](https://www.wikihow.tech/Install-APK-Files-on-Android))
 
 Once installed, run the desktop client and press "Start" and then "QR code" button (this will show a QR code on the screen). Then with the app press "WiFI/LAN" (or Bluetooth depending on how you wish to connect) and scan the QR code. And voila the devices are connected.
+
+## Support and Collaboration
+If you wish to support or collaborate on this project please contact one of the members of the team.
