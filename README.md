@@ -5,6 +5,11 @@ A cross platform solution for controlling your PC from a mobile device
 This application is in essence an all in one solution to control your desktop computer from a mobile device. This app aims to be a simple, minimalistic and easy to use way to control your desktop when you are unable to physically do it yourself.
 Not only does it provide the conventional mouse and keyboard support, it also provides easy interfaces for directly controlling presentation software, pdf readers, media players and much much more.
 
+## Submodules
+Client application repository: [hotkey-client](https://github.com/hoenchioma/hotkey-client)
+
+Server (desktop client) application repository: [hotkey-server](https://github.com/hoenchioma/hotkey-server)
+
 ## Features
 
 An exhaustive list of all currently available features and components in our application are as follows:
