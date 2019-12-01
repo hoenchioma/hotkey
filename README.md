@@ -6,9 +6,29 @@ This application is in essence an all in one solution to control your desktop co
 Not only does it provide the conventional mouse and keyboard support, it also provides easy interfaces for directly controlling presentation software, pdf readers, media players and much much more.
 
 ## Submodules
-Client application repository: [hotkey-client](https://github.com/hoenchioma/hotkey-client)
+- Client application repository: [hotkey-client](https://github.com/hoenchioma/hotkey-client)
+- Server (desktop client) application repository: [hotkey-server](https://github.com/hoenchioma/hotkey-server)
 
-Server (desktop client) application repository: [hotkey-server](https://github.com/hoenchioma/hotkey-server)
+## Download and Usage
+#### Download
+Head on over to the release pages of hotkey-client and hotkey-server to download the latest release.
+
+<a href=https://github.com/hoenchioma/hotkey-client/releases><img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-client</a>
+<br>
+<a href=https://github.com/hoenchioma/hotkey-server/releases><img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-server</a>
+
+#### Minimum Requirements
+<i>For the server (desktop client) you need to have JRE 11.0 or higher to run the application.</i>
+<br>
+<i>For client application the minimum supported android version is Android 4.0.3 Ice Cream Sandwich (API 15)</i>
+
+#### Usage
+After downloading install/run the respective applications. Note that both server and client should be compatible
+(If downloading the latest release of both or their major versions are same then you should be safe).
+
+If you don't know how to install third party apks see [this](https://www.wikihow.tech/Install-APK-Files-on-Android).
+
+Once installed, run the desktop client exe or jar and press `Start` and then `QR code` button (this will show a QR code on the screen). Then with the app press `WiFI/LAN` (or `Bluetooth` depending on how you wish to connect) and scan the QR code. And voila the devices are connected.
 
 ## Features
 
@@ -33,13 +53,6 @@ There are 2 main modes of connecting the mobile and desktop (server) application
 
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/h0pA3SHEp_4/hqdefault.jpg)](https://youtu.be/h0pA3SHEp_4)
-
-## Download and Usage
-To download and install/run goto the release pages for [hotkey-client](https://github.com/hoenchioma/hotkey-client/releases) (android client) and [hotkey-server](https://github.com/hoenchioma/hotkey-server/releases) (desktop client), and download the latest release.
-
-(If you don't know how to install third party apks see [this](https://www.wikihow.tech/Install-APK-Files-on-Android))
-
-Once installed, run the desktop client and press `Start` and then `QR code` button (this will show a QR code on the screen). Then with the app press `WiFI/LAN` (or `Bluetooth` depending on how you wish to connect) and scan the QR code. And voila the devices are connected.
 
 ## Collaborators:
 1. Raheeb Hassan (`Roll: AE-42`)&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoenchioma"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:raheeb@myself.com"><img src="http://www.clker.com/cliparts/5/S/U/Y/A/R/email-icon-th.png" alt='Email Icon clip art' width="20" height="20"/></a>
