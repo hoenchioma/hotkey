@@ -13,9 +13,9 @@ Not only does it provide the conventional mouse and keyboard support, it also pr
 #### Download
 Head on over to the release pages of hotkey-client and hotkey-server to download the latest release.
 
-<a href=https://github.com/hoenchioma/hotkey-client/releases><img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-client</a>
+[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-client](https://github.com/hoenchioma/hotkey-client/releases)
 <br>
-<a href=https://github.com/hoenchioma/hotkey-server/releases><img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-server</a>
+[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-server](https://github.com/hoenchioma/hotkey-server/releases)
 
 #### Minimum Requirements
 <i>For the server (desktop client) you need to have JRE 11.0 or higher to run the application.</i>
