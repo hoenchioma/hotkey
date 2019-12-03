@@ -13,9 +13,9 @@ Not only does it provide the conventional mouse and keyboard support, it also pr
 #### Download
 Head on over to the release pages of hotkey-client and hotkey-server to download the latest release.
 
-[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-client _(Android app)_](https://github.com/hoenchioma/hotkey-client/releases)
+[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-client _(Android app)_](http://bit.ly/hotkey-client-release)
 <br>
-[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-server _(Desktop client)_](https://github.com/hoenchioma/hotkey-server/releases)
+[<img src="http://www.iconarchive.com/download/i76033/martz90/circle-addon2/downloads.ico" width="20" height="20"/>  hotkey-server _(Desktop client)_](http://bit.ly/hotkey-server-release)
 
 #### Minimum Requirements
 <i>For the server (desktop client) you need to have JRE 11.0 or higher to run the application.</i>
@@ -52,7 +52,8 @@ There are 2 main modes of connecting the mobile and desktop (server) application
 5. Media keys: contains buttons for invoking the hardware buttons for play, pause, skip next, skip previous, volume up, volume down, etc.
 
 ## Video Demo
-[![Watch the video](https://img.youtube.com/vi/h0pA3SHEp_4/hqdefault.jpg)](https://youtu.be/h0pA3SHEp_4)
+[![Watch the video](https://img.youtube.com/vi/XpOH6iowrnU/hqdefault.jpg)](https://bit.ly/hotkey-demo)
+<!-- https://bit.ly/hotkey-demo = https://youtu.be/XpOH6iowrnU -->
 
 ## Collaborators:
 1. Raheeb Hassan (`Roll: AE-42`)&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoenchioma"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:raheeb@myself.com"><img src="http://www.clker.com/cliparts/5/S/U/Y/A/R/email-icon-th.png" alt='Email Icon clip art' width="20" height="20"/></a>
