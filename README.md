@@ -1,4 +1,13 @@
 # Hotkey
+
+[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![Built for Android](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/hoenchioma/hotkey.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/hoenchioma/hotkey/watchers/)
+[![Star on GitHub](https://img.shields.io/github/stars/hoenchioma/hotkey.svg?style=social)](https://github.com/hoenchioma/hotkey/stargazers)
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/hoenchioma/hotkey.svg?style=social)](https://twitter.com/intent/tweet?url=http%3A%2F%2Fbit.ly%2Fhotkey-rfw&text=Check%20out%20Hotkey%21%20It%27s%20an%20app%20that%20let%27s%20you%20control%20your%20PC%20from%20your%20android%20phone.)
+
 A cross platform solution for controlling your PC from a mobile device
 (This is a university project for the course CSE-2216 (Application Development Lab) at the [Department of Computer Science and Engineering, University of Dhaka](http://www.cse.du.ac.bd/).)
 
