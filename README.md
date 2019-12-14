@@ -1,7 +1,7 @@
 # Hotkey
 
-[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-[![Built for Android](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/)
+[![Built for Android](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.android.com/)
 [![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/hoenchioma/hotkey.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/hoenchioma/hotkey/watchers/)
